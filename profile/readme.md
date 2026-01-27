@@ -57,7 +57,7 @@ Roll No | Name | Repo URL | Leetcode URL | Current Status
 53 |  | [Github]() | [Leetcode]() | ![](https://leetcard.jacoblin.cool/)
 54 |  | [Github]() | [Leetcode]() | ![](https://leetcard.jacoblin.cool/)
 55 |  | [Github]() | [Leetcode]() | ![](https://leetcard.jacoblin.cool/)
-56 |  | [Github]() | [Leetcode]() | ![](https://leetcard.jacoblin.cool/)
+56 | SRIREVANTH A | [Github](https://github.com/29REV/lcoderev) | [Leetcode](https://leetcode.com/u/SRIREVANTHA) | ![](https://leetcard.jacoblin.cool/SRIREVANTHA)
 57 |  | [Github]() | [Leetcode]() | ![](https://leetcard.jacoblin.cool/)
 58 |  | [Github]() | [Leetcode]() | ![](https://leetcard.jacoblin.cool/)
 59 |  | [Github]() | [Leetcode]() | ![](https://leetcard.jacoblin.cool/)
