@@ -7,7 +7,7 @@ Roll No | Name | Repo URL | Leetcode URL | Current Status
 3 |Deebika C  | [Github](https://github.com/Deebika05/leetcode-tracker) | [Leetcode](https://leetcode.com/u/XUidISuSuz/) | ![](https://leetcard.jacoblin.cool/XUidISuSuz)
 4 |Deebika E  | [Github](https://github.com/Deebika-E/Leetcode-solve) | [Leetcode](https://leetcode.com/u/3d6IxNLt13/) | ![](https://leetcard.jacoblin.cool/3d6IxNLt13)
 5 |Deekshitha  | [Github](https://github.com/Deekshitha-215/leetcode-solved) | [Leetcode](https://leetcode.com/u/Deekshitha_Ashok/) | ![](https://leetcard.jacoblin.cool/Deekshitha_Ashok)
-6 |  | [Github]() | [Leetcode]() | ![](https://leetcard.jacoblin.cool/)
+6 | DHANUSHREE R | [Github](https://github.com/24149006-art/lcodetrackDhanu) | [Leetcode](https://leetcode.com/u/Jw0X62ALbE/) | ![](https://leetcard.jacoblin.cool/Jw0X62ALbE)
 7 |  | [Github]() | [Leetcode]() | ![](https://leetcard.jacoblin.cool/)
 8 |  | [Github]() | [Leetcode]() | ![](https://leetcard.jacoblin.cool/)
 9 |  | [Github]() | [Leetcode]() | ![](https://leetcard.jacoblin.cool/)
